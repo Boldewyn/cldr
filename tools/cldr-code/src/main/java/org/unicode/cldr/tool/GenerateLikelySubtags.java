@@ -518,7 +518,8 @@ public class GenerateLikelySubtags {
                                 {"hnj_Hmng", "hnj_Hmng_LA"},
                                 {"bap_Krai", "bap_Krai_IN"},
 
-                                // English is official but a local language is the largest -- that takes precedence
+                                // English is official but a local language is the largest -- that
+                                // takes precedence
                                 {"und_MU", "mfe_Latn_MU"},
                                 {"und_Latn_MU", "mfe_Latn_MU"},
                                 {"und_SL", "kri_Latn_SL"},
