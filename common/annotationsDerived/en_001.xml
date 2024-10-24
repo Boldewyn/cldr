@@ -246,16 +246,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏿‍🦯" type="tts">person with guide cane: dark skin tone</annotation>
 		<annotation cp="🧑‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane</annotation>
 		<annotation cp="🧑‍🦯‍➡" type="tts">person with guide cane facing right</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person with guide cane facing right</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person with guide cane facing right</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person with guide cane facing right</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person with guide cane facing right</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person with guide cane facing right</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane | light skin tone </annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person with guide cane facing right: light skin tone</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane | medium-light skin tone </annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person with guide cane facing right: medium-light skin tone</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane | medium skin tone </annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person with guide cane facing right: medium skin tone</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane | medium-dark skin tone </annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person with guide cane facing right: medium-dark skin tone</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">accessibility | blind | person with guide cane | person with white cane | dark skin tone </annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person with guide cane facing right: dark skin tone</annotation>
 		<annotation cp="👨🏻‍🦯">accessibility | blind | light skin tone | man | man with guide cane</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">man with guide cane: light skin tone</annotation>
 		<annotation cp="👨🏼‍🦯">accessibility | blind | man | man with guide cane | medium-light skin tone</annotation>
@@ -268,16 +268,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏿‍🦯" type="tts">man with guide cane: dark skin tone</annotation>
 		<annotation cp="👨‍🦯‍➡">accessibility | blind | man | man with guide cane</annotation>
 		<annotation cp="👨‍🦯‍➡" type="tts">man with guide cane facing right</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">accessibility | blind | man | man with guide cane</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">man with guide cane facing right</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">accessibility | blind | man | man with guide cane</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">man with guide cane facing right</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">accessibility | blind | man | man with guide cane</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">man with guide cane facing right</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">accessibility | blind | man | man with guide cane</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">man with guide cane facing right</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">accessibility | blind | man | man with guide cane</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">man with guide cane facing right</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">accessibility | blind | man | man with guide cane | light skin tone </annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">man with guide cane facing right: light skin tone</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">accessibility | blind | man | man with guide cane | medium-light skin tone </annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">man with guide cane facing right: medium-light skin tone</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">accessibility | blind | man | man with guide cane | medium skin tone </annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">man with guide cane facing right: medium skin tone</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">accessibility | blind | man | man with guide cane | medium-dark skin tone </annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">man with guide cane facing right: medium-dark skin tone</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">accessibility | blind | man | man with guide cane | dark skin tone </annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">man with guide cane facing right: dark skin tone</annotation>
 		<annotation cp="👩🏻‍🦯">accessibility | blind | light skin tone | woman | woman with guide cane</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">woman with guide cane: light skin tone</annotation>
 		<annotation cp="👩🏼‍🦯">accessibility | blind | medium-light skin tone | woman | woman with guide cane</annotation>
@@ -290,16 +290,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏿‍🦯" type="tts">woman with guide cane: dark skin tone</annotation>
 		<annotation cp="👩‍🦯‍➡">accessibility | blind | woman | woman with guide cane</annotation>
 		<annotation cp="👩‍🦯‍➡" type="tts">woman with guide cane facing right</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">accessibility | blind | woman | woman with guide cane</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">woman with guide cane facing right</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">accessibility | blind | woman | woman with guide cane</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">woman with guide cane facing right</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">accessibility | blind | woman | woman with guide cane</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">woman with guide cane facing right</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">accessibility | blind | woman | woman with guide cane</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">woman with guide cane facing right</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">accessibility | blind | woman | woman with guide cane</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">woman with guide cane facing right</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">accessibility | blind | woman | woman with guide cane | light skin tone </annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">woman with guide cane facing right: light skin tone</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">accessibility | blind | woman | woman with guide cane | medium-light skin tone </annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">woman with guide cane facing right: medium-light skin tone</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">accessibility | blind | woman | woman with guide cane | medium skin tone </annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">woman with guide cane facing right: medium skin tone</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">accessibility | blind | woman | woman with guide cane | medium-dark skin tone </annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">woman with guide cane facing right: medium-dark skin tone</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">accessibility | blind | woman | woman with guide cane | dark skin tone </annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">woman with guide cane facing right: dark skin tone</annotation>
 		<annotation cp="🧑🏻‍🦼">accessibility | light skin tone | person in motorised wheelchair | person in powered wheelchair | wheelchair</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">person in powered wheelchair: light skin tone</annotation>
 		<annotation cp="🧑🏼‍🦼">accessibility | medium-light skin tone | person in motorised wheelchair | person in powered wheelchair | wheelchair</annotation>
@@ -312,16 +312,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏿‍🦼" type="tts">person in powered wheelchair: dark skin tone</annotation>
 		<annotation cp="🧑‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair</annotation>
 		<annotation cp="🧑‍🦼‍➡" type="tts">person in powered wheelchair facing right</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person in powered wheelchair facing right</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person in powered wheelchair facing right</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person in powered wheelchair facing right</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person in powered wheelchair facing right</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person in powered wheelchair facing right</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair | light skin tone </annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person in powered wheelchair facing right: light skin tone</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair | medium-light skin tone </annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person in powered wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair | medium skin tone </annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person in powered wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair | medium-dark skin tone </annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person in powered wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">accessibility | person in motorised wheelchair | person in powered wheelchair | wheelchair | dark skin tone </annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person in powered wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="👨🏻‍🦼">accessibility | light skin tone | man | man in powered wheelchair | wheelchair</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">man in powered wheelchair: light skin tone</annotation>
 		<annotation cp="👨🏼‍🦼">accessibility | man | man in powered wheelchair | medium-light skin tone | wheelchair</annotation>
@@ -334,16 +334,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏿‍🦼" type="tts">man in powered wheelchair: dark skin tone</annotation>
 		<annotation cp="👨‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair</annotation>
 		<annotation cp="👨‍🦼‍➡" type="tts">man in powered wheelchair facing right</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">man in powered wheelchair facing right</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">man in powered wheelchair facing right</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">man in powered wheelchair facing right</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">man in powered wheelchair facing right</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">man in powered wheelchair facing right</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair | light skin tone </annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">man in powered wheelchair facing right: light skin tone</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair | medium-light skin tone </annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">man in powered wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair | medium skin tone </annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">man in powered wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair | medium-dark skin tone </annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">man in powered wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">accessibility | man | man in powered wheelchair | wheelchair | dark skin tone </annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">man in powered wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="👩🏻‍🦼">accessibility | light skin tone | wheelchair | woman | woman in powered wheelchair</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">woman in powered wheelchair: light skin tone</annotation>
 		<annotation cp="👩🏼‍🦼">accessibility | medium-light skin tone | wheelchair | woman | woman in powered wheelchair</annotation>
@@ -356,16 +356,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏿‍🦼" type="tts">woman in powered wheelchair: dark skin tone</annotation>
 		<annotation cp="👩‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair</annotation>
 		<annotation cp="👩‍🦼‍➡" type="tts">woman in powered wheelchair facing right</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">woman in powered wheelchair facing right</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">woman in powered wheelchair facing right</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">woman in powered wheelchair facing right</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">woman in powered wheelchair facing right</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">woman in powered wheelchair facing right</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair | light skin tone </annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">woman in powered wheelchair facing right: light skin tone</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair | medium-light skin tone </annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">woman in powered wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair | medium skin tone </annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">woman in powered wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair | medium-dark skin tone </annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">woman in powered wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">accessibility | wheelchair | woman | woman in powered wheelchair | dark skin tone </annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">woman in powered wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="🕺🏻">dance | dancer | dancing | disco | elegant | festive | flair | flamenco | groove | let’s | light skin tone | man | salsa | tango</annotation>
 		<annotation cp="🕺🏼">dance | dancer | dancing | disco | elegant | festive | flair | flamenco | groove | let’s | man | medium-light skin tone | salsa | tango</annotation>
 		<annotation cp="🕺🏽">dance | dancer | dancing | disco | elegant | festive | flair | flamenco | groove | let’s | man | medium skin tone | salsa | tango</annotation>

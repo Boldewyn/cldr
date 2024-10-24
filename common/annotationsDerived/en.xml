@@ -2689,40 +2689,40 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏿‍♀" type="tts">woman walking: dark skin tone</annotation>
 		<annotation cp="🚶‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking</annotation>
 		<annotation cp="🚶‍➡" type="tts">person walking facing right</annotation>
-		<annotation cp="🚶🏻‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">person walking facing right</annotation>
-		<annotation cp="🚶🏼‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">person walking facing right</annotation>
-		<annotation cp="🚶🏽‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">person walking facing right</annotation>
-		<annotation cp="🚶🏾‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">person walking facing right</annotation>
-		<annotation cp="🚶🏿‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">person walking facing right</annotation>
+		<annotation cp="🚶🏻‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking | light skin tone </annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">person walking facing right: light skin tone</annotation>
+		<annotation cp="🚶🏼‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking | medium-light skin tone </annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">person walking facing right: medium-light skin tone</annotation>
+		<annotation cp="🚶🏽‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking | medium skin tone </annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">person walking facing right: medium skin tone</annotation>
+		<annotation cp="🚶🏾‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking | medium-dark skin tone </annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">person walking facing right: medium-dark skin tone</annotation>
+		<annotation cp="🚶🏿‍➡">amble | gait | hike | man | pace | pedestrian | person | stride | stroll | walk | walking | dark skin tone </annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">person walking facing right: dark skin tone</annotation>
 		<annotation cp="🚶‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman</annotation>
 		<annotation cp="🚶‍♀‍➡" type="tts">woman walking facing right</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">woman walking facing right</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">woman walking facing right</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">woman walking facing right</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">woman walking facing right</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">woman walking facing right</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman | light skin tone </annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">woman walking facing right: light skin tone</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman | medium-light skin tone </annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">woman walking facing right: medium-light skin tone</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman | medium skin tone </annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">woman walking facing right: medium skin tone</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman | medium-dark skin tone </annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">woman walking facing right: medium-dark skin tone</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | woman | dark skin tone </annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">woman walking facing right: dark skin tone</annotation>
 		<annotation cp="🚶‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking</annotation>
 		<annotation cp="🚶‍♂‍➡" type="tts">man walking facing right</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">man walking facing right</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">man walking facing right</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">man walking facing right</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">man walking facing right</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">man walking facing right</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | light skin tone </annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">man walking facing right: light skin tone</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | medium-light skin tone </annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">man walking facing right: medium-light skin tone</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | medium skin tone </annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">man walking facing right: medium skin tone</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | medium-dark skin tone </annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">man walking facing right: medium-dark skin tone</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">amble | gait | hike | man | pace | pedestrian | stride | stroll | walk | walking | dark skin tone </annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">man walking facing right: dark skin tone</annotation>
 		<annotation cp="🧍🏻">light skin tone | person | stand | standing</annotation>
 		<annotation cp="🧍🏻" type="tts">person standing: light skin tone</annotation>
 		<annotation cp="🧍🏼">medium-light skin tone | person | stand | standing</annotation>
@@ -2785,40 +2785,40 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏿‍♀" type="tts">woman kneeling: dark skin tone</annotation>
 		<annotation cp="🧎‍➡">kneel | kneeling | knees | person</annotation>
 		<annotation cp="🧎‍➡" type="tts">person kneeling facing right</annotation>
-		<annotation cp="🧎🏻‍➡">kneel | kneeling | knees | person</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">person kneeling facing right</annotation>
-		<annotation cp="🧎🏼‍➡">kneel | kneeling | knees | person</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">person kneeling facing right</annotation>
-		<annotation cp="🧎🏽‍➡">kneel | kneeling | knees | person</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">person kneeling facing right</annotation>
-		<annotation cp="🧎🏾‍➡">kneel | kneeling | knees | person</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">person kneeling facing right</annotation>
-		<annotation cp="🧎🏿‍➡">kneel | kneeling | knees | person</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">person kneeling facing right</annotation>
+		<annotation cp="🧎🏻‍➡">kneel | kneeling | knees | person | light skin tone </annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">person kneeling facing right: light skin tone</annotation>
+		<annotation cp="🧎🏼‍➡">kneel | kneeling | knees | person | medium-light skin tone </annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">person kneeling facing right: medium-light skin tone</annotation>
+		<annotation cp="🧎🏽‍➡">kneel | kneeling | knees | person | medium skin tone </annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">person kneeling facing right: medium skin tone</annotation>
+		<annotation cp="🧎🏾‍➡">kneel | kneeling | knees | person | medium-dark skin tone </annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">person kneeling facing right: medium-dark skin tone</annotation>
+		<annotation cp="🧎🏿‍➡">kneel | kneeling | knees | person | dark skin tone </annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">person kneeling facing right: dark skin tone</annotation>
 		<annotation cp="🧎‍♀‍➡">kneel | kneeling | knees | woman</annotation>
 		<annotation cp="🧎‍♀‍➡" type="tts">woman kneeling facing right</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">kneel | kneeling | knees | woman</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">woman kneeling facing right</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">kneel | kneeling | knees | woman</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">woman kneeling facing right</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">kneel | kneeling | knees | woman</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">woman kneeling facing right</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">kneel | kneeling | knees | woman</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">woman kneeling facing right</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">kneel | kneeling | knees | woman</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">woman kneeling facing right</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">kneel | kneeling | knees | woman | light skin tone </annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">woman kneeling facing right: light skin tone</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">kneel | kneeling | knees | woman | medium-light skin tone </annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">woman kneeling facing right: medium-light skin tone</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">kneel | kneeling | knees | woman | medium skin tone </annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">woman kneeling facing right: medium skin tone</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">kneel | kneeling | knees | woman | medium-dark skin tone </annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">woman kneeling facing right: medium-dark skin tone</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">kneel | kneeling | knees | woman | dark skin tone </annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">woman kneeling facing right: dark skin tone</annotation>
 		<annotation cp="🧎‍♂‍➡">kneel | kneeling | knees | man</annotation>
 		<annotation cp="🧎‍♂‍➡" type="tts">man kneeling facing right</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">kneel | kneeling | knees | man</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">man kneeling facing right</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">kneel | kneeling | knees | man</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">man kneeling facing right</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">kneel | kneeling | knees | man</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">man kneeling facing right</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">kneel | kneeling | knees | man</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">man kneeling facing right</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">kneel | kneeling | knees | man</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">man kneeling facing right</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">kneel | kneeling | knees | man | light skin tone </annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">man kneeling facing right: light skin tone</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">kneel | kneeling | knees | man | medium-light skin tone </annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">man kneeling facing right: medium-light skin tone</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">kneel | kneeling | knees | man | medium skin tone </annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">man kneeling facing right: medium skin tone</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">kneel | kneeling | knees | man | medium-dark skin tone </annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">man kneeling facing right: medium-dark skin tone</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">kneel | kneeling | knees | man | dark skin tone </annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">man kneeling facing right: dark skin tone</annotation>
 		<annotation cp="🧑🏻‍🦯">accessibility | blind | cane | light skin tone | person | probing | white</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">person with white cane: light skin tone</annotation>
 		<annotation cp="🧑🏼‍🦯">accessibility | blind | cane | medium-light skin tone | person | probing | white</annotation>
@@ -2831,16 +2831,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏿‍🦯" type="tts">person with white cane: dark skin tone</annotation>
 		<annotation cp="🧑‍🦯‍➡">accessibility | blind | cane | person | probing | white</annotation>
 		<annotation cp="🧑‍🦯‍➡" type="tts">person with white cane facing right</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">accessibility | blind | cane | person | probing | white</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person with white cane facing right</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">accessibility | blind | cane | person | probing | white</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person with white cane facing right</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">accessibility | blind | cane | person | probing | white</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person with white cane facing right</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">accessibility | blind | cane | person | probing | white</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person with white cane facing right</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">accessibility | blind | cane | person | probing | white</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person with white cane facing right</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">accessibility | blind | cane | person | probing | white | light skin tone </annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person with white cane facing right: light skin tone</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">accessibility | blind | cane | person | probing | white | medium-light skin tone </annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person with white cane facing right: medium-light skin tone</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">accessibility | blind | cane | person | probing | white | medium skin tone </annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person with white cane facing right: medium skin tone</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">accessibility | blind | cane | person | probing | white | medium-dark skin tone </annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person with white cane facing right: medium-dark skin tone</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">accessibility | blind | cane | person | probing | white | dark skin tone </annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person with white cane facing right: dark skin tone</annotation>
 		<annotation cp="👨🏻‍🦯">accessibility | blind | cane | light skin tone | man | probing | white</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">man with white cane: light skin tone</annotation>
 		<annotation cp="👨🏼‍🦯">accessibility | blind | cane | man | medium-light skin tone | probing | white</annotation>
@@ -2853,16 +2853,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏿‍🦯" type="tts">man with white cane: dark skin tone</annotation>
 		<annotation cp="👨‍🦯‍➡">accessibility | blind | cane | man | probing | white</annotation>
 		<annotation cp="👨‍🦯‍➡" type="tts">man with white cane facing right</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">accessibility | blind | cane | man | probing | white</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">man with white cane facing right</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">accessibility | blind | cane | man | probing | white</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">man with white cane facing right</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">accessibility | blind | cane | man | probing | white</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">man with white cane facing right</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">accessibility | blind | cane | man | probing | white</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">man with white cane facing right</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">accessibility | blind | cane | man | probing | white</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">man with white cane facing right</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">accessibility | blind | cane | man | probing | white | light skin tone </annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">man with white cane facing right: light skin tone</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">accessibility | blind | cane | man | probing | white | medium-light skin tone </annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">man with white cane facing right: medium-light skin tone</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">accessibility | blind | cane | man | probing | white | medium skin tone </annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">man with white cane facing right: medium skin tone</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">accessibility | blind | cane | man | probing | white | medium-dark skin tone </annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">man with white cane facing right: medium-dark skin tone</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">accessibility | blind | cane | man | probing | white | dark skin tone </annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">man with white cane facing right: dark skin tone</annotation>
 		<annotation cp="👩🏻‍🦯">accessibility | blind | cane | light skin tone | probing | white | woman</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">woman with white cane: light skin tone</annotation>
 		<annotation cp="👩🏼‍🦯">accessibility | blind | cane | medium-light skin tone | probing | white | woman</annotation>
@@ -2875,16 +2875,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏿‍🦯" type="tts">woman with white cane: dark skin tone</annotation>
 		<annotation cp="👩‍🦯‍➡">accessibility | blind | cane | probing | white | woman</annotation>
 		<annotation cp="👩‍🦯‍➡" type="tts">woman with white cane facing right</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">accessibility | blind | cane | probing | white | woman</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">woman with white cane facing right</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">accessibility | blind | cane | probing | white | woman</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">woman with white cane facing right</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">accessibility | blind | cane | probing | white | woman</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">woman with white cane facing right</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">accessibility | blind | cane | probing | white | woman</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">woman with white cane facing right</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">accessibility | blind | cane | probing | white | woman</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">woman with white cane facing right</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">accessibility | blind | cane | probing | white | woman | light skin tone </annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">woman with white cane facing right: light skin tone</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">accessibility | blind | cane | probing | white | woman | medium-light skin tone </annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">woman with white cane facing right: medium-light skin tone</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">accessibility | blind | cane | probing | white | woman | medium skin tone </annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">woman with white cane facing right: medium skin tone</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">accessibility | blind | cane | probing | white | woman | medium-dark skin tone </annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">woman with white cane facing right: medium-dark skin tone</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">accessibility | blind | cane | probing | white | woman | dark skin tone </annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">woman with white cane facing right: dark skin tone</annotation>
 		<annotation cp="🧑🏻‍🦼">accessibility | light skin tone | motorized | person | wheelchair</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">person in motorized wheelchair: light skin tone</annotation>
 		<annotation cp="🧑🏼‍🦼">accessibility | medium-light skin tone | motorized | person | wheelchair</annotation>
@@ -2897,16 +2897,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏿‍🦼" type="tts">person in motorized wheelchair: dark skin tone</annotation>
 		<annotation cp="🧑‍🦼‍➡">accessibility | motorized | person | wheelchair</annotation>
 		<annotation cp="🧑‍🦼‍➡" type="tts">person in motorized wheelchair facing right</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">accessibility | motorized | person | wheelchair</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person in motorized wheelchair facing right</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">accessibility | motorized | person | wheelchair</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person in motorized wheelchair facing right</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">accessibility | motorized | person | wheelchair</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person in motorized wheelchair facing right</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">accessibility | motorized | person | wheelchair</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person in motorized wheelchair facing right</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">accessibility | motorized | person | wheelchair</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person in motorized wheelchair facing right</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">accessibility | motorized | person | wheelchair | light skin tone </annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person in motorized wheelchair facing right: light skin tone</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">accessibility | motorized | person | wheelchair | medium-light skin tone </annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person in motorized wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">accessibility | motorized | person | wheelchair | medium skin tone </annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person in motorized wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">accessibility | motorized | person | wheelchair | medium-dark skin tone </annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person in motorized wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">accessibility | motorized | person | wheelchair | dark skin tone </annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person in motorized wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="👨🏻‍🦼">accessibility | light skin tone | man | motorized | wheelchair</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">man in motorized wheelchair: light skin tone</annotation>
 		<annotation cp="👨🏼‍🦼">accessibility | man | medium-light skin tone | motorized | wheelchair</annotation>
@@ -2919,16 +2919,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏿‍🦼" type="tts">man in motorized wheelchair: dark skin tone</annotation>
 		<annotation cp="👨‍🦼‍➡">accessibility | man | motorized | wheelchair</annotation>
 		<annotation cp="👨‍🦼‍➡" type="tts">man in motorized wheelchair facing right</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">accessibility | man | motorized | wheelchair</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">man in motorized wheelchair facing right</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">accessibility | man | motorized | wheelchair</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">man in motorized wheelchair facing right</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">accessibility | man | motorized | wheelchair</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">man in motorized wheelchair facing right</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">accessibility | man | motorized | wheelchair</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">man in motorized wheelchair facing right</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">accessibility | man | motorized | wheelchair</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">man in motorized wheelchair facing right</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">accessibility | man | motorized | wheelchair | light skin tone </annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">man in motorized wheelchair facing right: light skin tone</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">accessibility | man | motorized | wheelchair | medium-light skin tone </annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">man in motorized wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">accessibility | man | motorized | wheelchair | medium skin tone </annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">man in motorized wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">accessibility | man | motorized | wheelchair | medium-dark skin tone </annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">man in motorized wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">accessibility | man | motorized | wheelchair | dark skin tone </annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">man in motorized wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="👩🏻‍🦼">accessibility | light skin tone | motorized | wheelchair | woman</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">woman in motorized wheelchair: light skin tone</annotation>
 		<annotation cp="👩🏼‍🦼">accessibility | medium-light skin tone | motorized | wheelchair | woman</annotation>
@@ -2941,16 +2941,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏿‍🦼" type="tts">woman in motorized wheelchair: dark skin tone</annotation>
 		<annotation cp="👩‍🦼‍➡">accessibility | motorized | wheelchair | woman</annotation>
 		<annotation cp="👩‍🦼‍➡" type="tts">woman in motorized wheelchair facing right</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">accessibility | motorized | wheelchair | woman</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">woman in motorized wheelchair facing right</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">accessibility | motorized | wheelchair | woman</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">woman in motorized wheelchair facing right</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">accessibility | motorized | wheelchair | woman</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">woman in motorized wheelchair facing right</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">accessibility | motorized | wheelchair | woman</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">woman in motorized wheelchair facing right</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">accessibility | motorized | wheelchair | woman</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">woman in motorized wheelchair facing right</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">accessibility | motorized | wheelchair | woman | light skin tone </annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">woman in motorized wheelchair facing right: light skin tone</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">accessibility | motorized | wheelchair | woman | medium-light skin tone </annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">woman in motorized wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">accessibility | motorized | wheelchair | woman | medium skin tone </annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">woman in motorized wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">accessibility | motorized | wheelchair | woman | medium-dark skin tone </annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">woman in motorized wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">accessibility | motorized | wheelchair | woman | dark skin tone </annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">woman in motorized wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="🧑🏻‍🦽">accessibility | light skin tone | manual | person | wheelchair</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">person in manual wheelchair: light skin tone</annotation>
 		<annotation cp="🧑🏼‍🦽">accessibility | manual | medium-light skin tone | person | wheelchair</annotation>
@@ -2963,16 +2963,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏿‍🦽" type="tts">person in manual wheelchair: dark skin tone</annotation>
 		<annotation cp="🧑‍🦽‍➡">accessibility | manual | person | wheelchair</annotation>
 		<annotation cp="🧑‍🦽‍➡" type="tts">person in manual wheelchair facing right</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">accessibility | manual | person | wheelchair</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">person in manual wheelchair facing right</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">accessibility | manual | person | wheelchair</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">person in manual wheelchair facing right</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">accessibility | manual | person | wheelchair</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">person in manual wheelchair facing right</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">accessibility | manual | person | wheelchair</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">person in manual wheelchair facing right</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">accessibility | manual | person | wheelchair</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">person in manual wheelchair facing right</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">accessibility | manual | person | wheelchair | light skin tone </annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">person in manual wheelchair facing right: light skin tone</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">accessibility | manual | person | wheelchair | medium-light skin tone </annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">person in manual wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">accessibility | manual | person | wheelchair | medium skin tone </annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">person in manual wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">accessibility | manual | person | wheelchair | medium-dark skin tone </annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">person in manual wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">accessibility | manual | person | wheelchair | dark skin tone </annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">person in manual wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="👨🏻‍🦽">accessibility | light skin tone | man | manual | wheelchair</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">man in manual wheelchair: light skin tone</annotation>
 		<annotation cp="👨🏼‍🦽">accessibility | man | manual | medium-light skin tone | wheelchair</annotation>
@@ -2985,16 +2985,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏿‍🦽" type="tts">man in manual wheelchair: dark skin tone</annotation>
 		<annotation cp="👨‍🦽‍➡">accessibility | man | manual | wheelchair</annotation>
 		<annotation cp="👨‍🦽‍➡" type="tts">man in manual wheelchair facing right</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">accessibility | man | manual | wheelchair</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">man in manual wheelchair facing right</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">accessibility | man | manual | wheelchair</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">man in manual wheelchair facing right</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">accessibility | man | manual | wheelchair</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">man in manual wheelchair facing right</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">accessibility | man | manual | wheelchair</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">man in manual wheelchair facing right</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">accessibility | man | manual | wheelchair</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">man in manual wheelchair facing right</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">accessibility | man | manual | wheelchair | light skin tone </annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">man in manual wheelchair facing right: light skin tone</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">accessibility | man | manual | wheelchair | medium-light skin tone </annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">man in manual wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">accessibility | man | manual | wheelchair | medium skin tone </annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">man in manual wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">accessibility | man | manual | wheelchair | medium-dark skin tone </annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">man in manual wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">accessibility | man | manual | wheelchair | dark skin tone </annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">man in manual wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="👩🏻‍🦽">accessibility | light skin tone | manual | wheelchair | woman</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">woman in manual wheelchair: light skin tone</annotation>
 		<annotation cp="👩🏼‍🦽">accessibility | manual | medium-light skin tone | wheelchair | woman</annotation>
@@ -3007,16 +3007,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏿‍🦽" type="tts">woman in manual wheelchair: dark skin tone</annotation>
 		<annotation cp="👩‍🦽‍➡">accessibility | manual | wheelchair | woman</annotation>
 		<annotation cp="👩‍🦽‍➡" type="tts">woman in manual wheelchair facing right</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">accessibility | manual | wheelchair | woman</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">woman in manual wheelchair facing right</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">accessibility | manual | wheelchair | woman</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">woman in manual wheelchair facing right</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">accessibility | manual | wheelchair | woman</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">woman in manual wheelchair facing right</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">accessibility | manual | wheelchair | woman</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">woman in manual wheelchair facing right</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">accessibility | manual | wheelchair | woman</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">woman in manual wheelchair facing right</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">accessibility | manual | wheelchair | woman | light skin tone </annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">woman in manual wheelchair facing right: light skin tone</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">accessibility | manual | wheelchair | woman | medium-light skin tone </annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">woman in manual wheelchair facing right: medium-light skin tone</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">accessibility | manual | wheelchair | woman | medium skin tone </annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">woman in manual wheelchair facing right: medium skin tone</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">accessibility | manual | wheelchair | woman | medium-dark skin tone </annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">woman in manual wheelchair facing right: medium-dark skin tone</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">accessibility | manual | wheelchair | woman | dark skin tone </annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">woman in manual wheelchair facing right: dark skin tone</annotation>
 		<annotation cp="🏃🏻">fast | hurry | light skin tone | marathon | move | person | quick | race | racing | run | rush | speed</annotation>
 		<annotation cp="🏃🏻" type="tts">person running: light skin tone</annotation>
 		<annotation cp="🏃🏼">fast | hurry | marathon | medium-light skin tone | move | person | quick | race | racing | run | rush | speed</annotation>
@@ -3049,40 +3049,40 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏿‍♀" type="tts">woman running: dark skin tone</annotation>
 		<annotation cp="🏃‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed</annotation>
 		<annotation cp="🏃‍➡" type="tts">person running facing right</annotation>
-		<annotation cp="🏃🏻‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">person running facing right</annotation>
-		<annotation cp="🏃🏼‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">person running facing right</annotation>
-		<annotation cp="🏃🏽‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">person running facing right</annotation>
-		<annotation cp="🏃🏾‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">person running facing right</annotation>
-		<annotation cp="🏃🏿‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">person running facing right</annotation>
+		<annotation cp="🏃🏻‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed | light skin tone </annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">person running facing right: light skin tone</annotation>
+		<annotation cp="🏃🏼‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed | medium-light skin tone </annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">person running facing right: medium-light skin tone</annotation>
+		<annotation cp="🏃🏽‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed | medium skin tone </annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">person running facing right: medium skin tone</annotation>
+		<annotation cp="🏃🏾‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed | medium-dark skin tone </annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">person running facing right: medium-dark skin tone</annotation>
+		<annotation cp="🏃🏿‍➡">fast | hurry | marathon | move | person | quick | race | racing | run | rush | speed | dark skin tone </annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">person running facing right: dark skin tone</annotation>
 		<annotation cp="🏃‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman</annotation>
 		<annotation cp="🏃‍♀‍➡" type="tts">woman running facing right</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">woman running facing right</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">woman running facing right</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">woman running facing right</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">woman running facing right</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">woman running facing right</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman | light skin tone </annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">woman running facing right: light skin tone</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman | medium-light skin tone </annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">woman running facing right: medium-light skin tone</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman | medium skin tone </annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">woman running facing right: medium skin tone</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman | medium-dark skin tone </annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">woman running facing right: medium-dark skin tone</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">fast | hurry | marathon | move | quick | race | racing | run | rush | speed | woman | dark skin tone </annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">woman running facing right: dark skin tone</annotation>
 		<annotation cp="🏃‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed</annotation>
 		<annotation cp="🏃‍♂‍➡" type="tts">man running facing right</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">man running facing right</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">man running facing right</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">man running facing right</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">man running facing right</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">man running facing right</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed | light skin tone </annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">man running facing right: light skin tone</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed | medium-light skin tone </annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">man running facing right: medium-light skin tone</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed | medium skin tone </annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">man running facing right: medium skin tone</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed | medium-dark skin tone </annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">man running facing right: medium-dark skin tone</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">fast | hurry | man | marathon | move | quick | race | racing | run | rush | speed | dark skin tone </annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">man running facing right: dark skin tone</annotation>
 		<annotation cp="💃🏻">dance | dancer | dancing | elegant | festive | flair | flamenco | groove | let’s | light skin tone | salsa | tango | woman</annotation>
 		<annotation cp="💃🏻" type="tts">woman dancing: light skin tone</annotation>
 		<annotation cp="💃🏼">dance | dancer | dancing | elegant | festive | flair | flamenco | groove | let’s | medium-light skin tone | salsa | tango | woman</annotation>
